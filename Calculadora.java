@@ -1,9 +1,6 @@
 public class Calculadora {
-		
-		private int a;
-		private int b;
 
-		public int soma (int a, int b) {
+		public int somar (int a, int b) {
 			return a + b;
 		}
 		
@@ -11,7 +8,7 @@ public class Calculadora {
 			return a - b;
 		}
 		
-		public int mutiplicar(int a, int b) {
+		public int multiplicar(int a, int b) {
 			return a * b;
 		}
 		
